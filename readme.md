@@ -59,6 +59,7 @@ Work through the following prompts:
 1. Create directory `Emerald_City/`
 1. Move 'the gang' to `Emerald_City/`
 
+> Hint: If you're unsure how to move multiple files to the same directory, try Googling "terminal move multiple files to same folder". StackOverflow is usually a great resource and the go-to for developers!! 
 ---
 
 ### You Must Kill the Witch
