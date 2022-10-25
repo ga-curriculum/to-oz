@@ -19,10 +19,6 @@ their way through Oz!
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 09:00am.
 
-### Prep for Git Lecture
-
-1. When you've submitted your issue, get ready for the next day's lecture by watching this short [Introduction to Git and Github](https://www.youtube.com/watch?v=uUuTYDg9XoI) 3:48 mins.
-
 ## Requirements
 
 Work through the following prompts:
