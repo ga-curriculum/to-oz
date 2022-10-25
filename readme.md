@@ -53,7 +53,7 @@ Work through the following prompts:
 1. Add file for `Tin_Man`
 1. Add file for `Cowardly_Lion`
 1. Create directory `Emerald_City/`
-1. Move 'the gang' to `Emerald_City/`
+1. Move `Scarecrow`, `Tin_Man` and `Cowardly_Lion` to `Emerald_City/`
 
 > Hint: If you're unsure how to move multiple files to the same directory, try Googling "terminal move multiple files to same folder". StackOverflow is usually a great resource and the go-to for developers!! 
 ---
