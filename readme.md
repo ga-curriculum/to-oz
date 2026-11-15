@@ -77,7 +77,7 @@ Work through the following prompts:
 ## Plagiarism
 
 Take a moment to refamiliarize yourself with the
-[Plagiarism policy](https://github.com/ga-curriculum/getting-started/blob/main/plagiarism.md).
+[Plagiarism policy](https://ga-curriculum.github.io/getting-started/plagiarism.html).
 Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
